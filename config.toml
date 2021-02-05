@@ -1,0 +1,137 @@
+baseURL = "http://braud.info/"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "fr"
+# language code
+languageCode = "fr"
+title = "Blog de Liscare"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "uBlogger"
+
+[params]
+  # uBlogger theme version
+  version = "1.3.X"
+  description = "Blog personnel de Liscare"
+  keywords = ["Blog", "Liscare", "Développement", "Informatique"]
+  dateFormat = "02-01-2006"
+
+  [params.app]
+    title = "Blog personnel de Liscare"
+    noFavicon = false
+    svgFavicon = ""
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
+
+  [params.search]
+    enable = true
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    maxResultLength = 10
+    snippetLength = 30
+    highlightTag = "em"
+
+  [params.header.title]
+    name = "Blog de Liscare"
+
+  [params.footer]
+    enable = true
+    hugo = true
+    copyright = true
+    author = true
+    since = 2021
+
+  [params.home.profile]
+    enable = true
+    gravatarEmail = ""
+    avatarURL = "/avatar_fox.png"
+    title = "Blog de Liscare"
+    subtitle = "De tout mais surtout du dev'"
+    social = true
+
+  [params.social]
+    GitHub = "Liscare"
+    Stackoverflow = "7734932/liscare"
+    Email = "liscare2@protonmail.com"
+    RSS = true #
+
+  [params.page.share]
+    enable = true
+    Twitter = true
+    Facebook = true
+    Linkedin = true
+    HackerNews = true
+    Reddit = true
+
+  [params.page.toc]
+    enable = true
+    keepStatic = false
+    auto = true
+
+[author]
+  name = "Liscare"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Articles"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Etiquettes"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Catégories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "favoris"
+    pre = ""
+    post = ""
+    name = "Mes favoris"
+    url = "/favoris/"
+    title = ""
+    weight = 4
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "A propos"
+    url = "/about/"
+    title = ""
+    weight = 5
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
