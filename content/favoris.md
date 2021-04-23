@@ -33,6 +33,7 @@ Cette page a pour objectif de vous faire partager plusieurs sources d'informatio
 ### Autre
 
 - [Culture 2000](https://culture-2000.lepodcast.fr/) –> podcast d’Histoire Géographie par Fréquence Moderne (disponible sur Spotify)
+- [LSD, La série documentaire](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire) –> de nombreux documentaire sur divers thèmes
 
 ## Vidéos documentaires
 
