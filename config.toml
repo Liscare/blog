@@ -6,7 +6,7 @@ languageCode = "fr"
 title = "Blog de Liscare"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "uBlogger"
+theme = ["uBlogger", "plausible-hugo"]
 
 [params]
   # uBlogger theme version
@@ -14,6 +14,10 @@ theme = "uBlogger"
   description = "Blog personnel de Liscare"
   keywords = ["Blog", "Liscare", "Développement", "Informatique"]
   dateFormat = "02-01-2006"
+
+  [params.plausible]
+    enable = true  # Whether to enable plausible tracking
+    domain = "braud.info"  # Plausible "domain" name/id in your dashboard
 
   [params.app]
     title = "Blog personnel de Liscare"
