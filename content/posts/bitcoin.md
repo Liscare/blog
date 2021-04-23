@@ -4,7 +4,7 @@ date: 2020-04-15
 draft: false
 author: "liscare"
 tags: ["Bitcoin", "Français"]
-categories: ["Ecologie"]
+categories: ["Écologie"]
 page:
     theme: full
 featuredImagePreview: "/posts/branchement_cables.jpg"
@@ -41,11 +41,11 @@ Pour cela, il faut du temps processeur pour effectuer des hashs cryptographiques
 
 > Le minage de Bitcoin est la résolution d’un problème complexe dont la réponse est facile à vérifier.
 
-Tout cela ne se fait pas tout seul, il faut beaucoup de puissance de calcul et donc (beaucoup) d’énergie. Le minage consomme de l’énergie électrique à travers les processeurs ou des cartes graphiques ainsi que leur refroidissement A titre d’exemple, un processeur [Intel Core i7-8700K](https://ark.intel.com/fr/products/126684/Intel-Core-i7-8700K-Processor-12M-Cache-up-to-4_70-GHz) consomme environ [150 Watts](http://www.guru3d.com/articles-pages/intel-core-i7-8700k-processor-review,5.html) hors refroidissement. Imaginez la consommation des fermes à Bitcoins où plus de [5 000 processeurs](http://www.parismatch.com/Actu/Economie/Cryptomonnaies-en-Islande-dans-une-ferme-de-bitcoins-1428995) ou cartes graphiques fonctionnent sans cesse, alors la consommation de votre téléviseur en veille c’est de la R.I.G.O.L.A.D.E. !
+Tout cela ne se fait pas tout seul, il faut beaucoup de puissance de calcul et donc (beaucoup) d’énergie. Le minage consomme de l’énergie électrique à travers les processeurs ou des cartes graphiques ainsi que leur refroidissement. À titre d’exemple, un processeur [Intel Core i7-8700K](https://ark.intel.com/fr/products/126684/Intel-Core-i7-8700K-Processor-12M-Cache-up-to-4_70-GHz) consomme environ [150 Watts](http://www.guru3d.com/articles-pages/intel-core-i7-8700k-processor-review,5.html) hors refroidissement. Imaginez la consommation des fermes à Bitcoins où plus de [5 000 processeurs](http://www.parismatch.com/Actu/Economie/Cryptomonnaies-en-Islande-dans-une-ferme-de-bitcoins-1428995) ou cartes graphiques fonctionnent sans cesse, alors la consommation de votre téléviseur en veille c’est de la R.I.G.O.L.A.D.E. !
 
 ## La consommation électrique, le fléau des crypto-monnaies
 
-D’après l’[index de Digiconomist](https://digiconomist.net/bitcoin-energy-consumption), la consommation électrique annuelle pour le réseau Bitcoin est estimée entre 58 et 73 TWh en 2020, soit un équivalent entre 0,23 et 0,35 % (1) de la consommation annuelle mondiale d’électricité pour 0,003 % (2) de la population mondiale , vous voyez le problème ?
+D’après l’[index de Digiconomist](https://digiconomist.net/bitcoin-energy-consumption), la consommation électrique annuelle pour le réseau Bitcoin est estimée entre 58 et 73 TWh en 2020, soit un équivalent entre 0,23 et 0,35 % (1) de la consommation annuelle mondiale d’électricité pour 0,003 % (2) de la population mondiale, vous voyez le problème ?
 
 {{< image src="Total-Electricity-Consumption-vs-Bitcoin-Mining.png" caption="Comparaison entre la consommation d'un pays et la consommation totale du bitcoin" alt="Carte montrant les pays consommant moins/autant/plus  que le bitcoin (consommation mondiale)">}}
 
@@ -57,13 +57,13 @@ Cette technologie de monnaie avec moins de 20 millions d’utilisateurs consomme
 
 ## Un problème de fond
 
-Pour moi, le problème est souvent là : l’utilisateur n’a pas conscience de sa propre consommation de ressources (électricité, matière première, humain etc.) puisqu’elle est inclue dans un prix global et, par ignorance ou par déni, le consommateur ne connait l’impact de ces achats. C’est le même problème lors de l’achat de produits ultra-sophistiqués comme une voiture : nous allons regarder sa consommation pour 100 km pour choisir notre voiture. En effet, cette facture énergétique touche directement notre porte-feuille. Elle est contrôlée (dépend de l’utilisation de la voiture), mesurée (indication sur le tableau de bord) et facturable (paiement direct à la pompe à essence). Nous devrions regarder la consommation d’essence, mais aussi, la consommation de ressources et d’énergies avant son achat (construction, transport du véhicule, publicité et vente). Ce sujet très complexe, un article sur cette thématique est prévu avec des chiffres et des analyses.
+Pour moi, le problème est souvent là : l’utilisateur n’a pas conscience de sa propre consommation de ressources (électricité, matière première, humain, etc.) puisqu’elle est inclue dans un prix global et, par ignorance ou par déni, le consommateur ne connait l’impact de ces achats. C’est le même problème lors de l’achat de produits ultra-sophistiqués comme une voiture : nous allons regarder sa consommation pour 100 km pour choisir notre voiture. En effet, cette facture énergétique touche directement notre porte-feuille. Elle est contrôlée (dépend de l’utilisation de la voiture), mesurée (indication sur le tableau de bord) et facturable (paiement direct à la pompe à essence). Nous devrions regarder la consommation d’essence, mais aussi, la consommation de ressources et d’énergies avant son achat (construction, transport du véhicule, publicité et vente). Ce sujet très complexe, un article sur cette thématique est prévu avec des chiffres et des analyses.
 
 La blockchain est peut-être une ou la solution à la centralisation du système monétaire actuel, cependant, il n’y a pas eu de prise en compte de la planète dans l’élaboration de cette solution. Pour moi, si une solution engendre plus d’effets négatifs pour la planète que le problème qu’elle est censée résoudre, alors ce n’est pas une solution possible. Et vous, vous en pensez quoi tout ça ?
 
 
 #### Détails des calculs :
-- (1) 23 000 Wh consommés en 2018 au monde, 73/23000\*100 = 0.32 % et 20/7300\*100 = 0.27 %
+- (1) 23 000 Wh consommés en 2018 au monde, 73 / 23000 x 100 = 0.32 % et 20 / 7300x  100 = 0.27 %
 - (2) 20 millions d’utilisateurs (estimation) sur 7,3 milliards d’humain
 
 *Article publié sur mon compte LinkedIn le 11 janvier 2018 (l’article a subi des modifications)*

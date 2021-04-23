@@ -24,7 +24,7 @@ toc:
 
 {{< image src="/posts/slide-degooglisons-internet.png" caption="Illustration de [Framasoft](https://degooglisons-internet.org/fr/) sous [Creative Commons By-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)" alt="Dessin illustrant une bataille entre Twitter, Google et Facebook">}}
 
-Dans un premier temps, j’avoue le terme « dégafamiser » vient du slogan « [Dégooglisons internet](https://degooglisons-internet.org/fr/) » de [Framasoft](https://framasoft.org/fr/). Depuis deux ans, je souhaite « reprendre mes données en main », entendez par là, « ne pas les livrer à des acteurs privés » (typiquement les GAFAM). Depuis 2018, j’ai entrepris un changement d’utilisation des outils numériques du quotidien : Facebook, Google Search, Android, Windows, Instagram, WhatsApp, Google Chrome, Google Calendar, Google Gmail etc. Vous voyez le topo ? **Les GAFAM étaient très présents dans ma vie.**
+Dans un premier temps, j’avoue le terme « dégafamiser » vient du slogan « [Dégooglisons internet](https://degooglisons-internet.org/fr/) » de [Framasoft](https://framasoft.org/fr/). Depuis deux ans, je souhaite « reprendre mes données en main », entendez par là, « ne pas les livrer à des acteurs privés » (typiquement les GAFAM). Depuis 2018, j’ai entrepris un changement d’utilisation des outils numériques du quotidien : Facebook, Google Search, Android, Windows, Instagram, WhatsApp, Google Chrome, Google Calendar, Google Gmail,. Vous voyez le topo ? **Les GAFAM étaient très présents dans ma vie.**
 
 Cet article est écrit sous la forme d’étapes sans avoir la prétention d’être un tutoriel, de l’habitude la plus facile à changer à la plus difficile à mon avis. L’idée est de se défaire du monopôle des très grosses entreprises type GAFAM et de reprendre en main, quand c’est possible, ses données personnelles. Vous aurez très probablement toujours des données personnelles sur internet. Pour autant, diminuer l’exposition de vos données vous permet d’être moins influencé sur vos choix, par exemple, sur YouTube et d’aller à l’essentiel. En parallèle, vous pouvez changer votre manière d’utiliser les outils numériques indépendamment de l’outil lui-même. Je ferai un article à ce propos.
 
@@ -34,11 +34,11 @@ Commençons par le plus facile : la navigation sur internet (navigateur + moteur
 
 ## Navigateur : Mon renard préféré
 
-Désinstallez Google Chrome puis installez Mozilla Firefox (ou Brave). Mettez-vous à l’aise, organisez vos favoris (par dossier, sous-dossier etc), ajoutez des extensions ([Dark Reader](https://darkreader.org/), [Privacy badger](https://privacybadger.org/) et [Ghostery](https://www.ghostery.com/) pour moi), utilisez un coffre-fort de mots de passe (Mozilla Lockwise par exemple) et configurez votre navigateur. Tout cela prend seulement 1 h 30. Soyez curieux pour configurer votre navigateur, vous pouvez même avoir plusieurs configurations (profil), choisissez-les en allant sur l’URL : about:profiles.
+Désinstallez Google Chrome puis installez Mozilla Firefox (ou Brave). Mettez-vous à l’aise, organisez vos favoris (par dossier, sous-dossier, etc), ajoutez des extensions ([Dark Reader](https://darkreader.org/), [Privacy badger](https://privacybadger.org/) et [Ghostery](https://www.ghostery.com/) pour moi), utilisez un coffre-fort de mots de passe (Mozilla Lockwise par exemple) et configurez votre navigateur. Tout cela prend seulement 1 h 30. Soyez curieux pour configurer votre navigateur, vous pouvez même avoir plusieurs configurations (profil), choisissez-les en allant sur l’URL : about:profiles.
 
 ### Moteur de recherches : CanardCanardAller
 
-Choisissez un moteur de recherche sur Firefox, j’ai choisi [DuckDuckGo](https://duckduckgo.com/) (métamoteur de recherches), il en existe plein d’autres ([Ecosia](https://www.ecosia.org/?c=fr), [QWant](https://www.qwant.com/) etc.). En désactivant les cookies et en activant la suppression de l’historique, vous allez (re)découvrir certains sites.
+Choisissez un moteur de recherche sur Firefox, j’ai choisi [DuckDuckGo](https://duckduckgo.com/) (métamoteur de recherches), il en existe plein d’autres ([Ecosia](https://www.ecosia.org/?c=fr), [QWant](https://www.qwant.com/), etc.). En désactivant les cookies et en activant la suppression de l’historique, vous allez (re)découvrir certains sites.
 
 ## OS : Bye Bill, bonjour Linus
 
@@ -64,7 +64,7 @@ Dans un premier temps, désactivez les différentes permissions inutiles de tout
 
 Toujours sur Android, vous allez désactiver certaines applications installées « par défaut » (pour ne pas dire « par obligation »). Pour cela, allez dans *Paramètres –> Applications*, sélectionnez l’application que vous voulez désinstaller puis cliquez sur *Désinstaller*.
 
-La plupart des applications de Google ne peuvent pas être désinstallées mais désactivées, alors cliquez sur *Désactiver* au lieu de *Désinstaller*. L’application va se réactiver automatiquement lorsque vous allez l’ouvrir. Vous pouvez désactiver les applications suivantes : Google Duo, Google Cloud Print, Google Play Films et séries, Google Play Musique, Google Hangouts, Thèmes, Appli Google, Chrome, Drive etc. Depuis que j’ai désactivé YouTube, j’ai régulièrement le message d’erreur YouTube a cessé de fonctionner lorsque je navigue sur n’importe quelle autre application, étrange n’est-ce pas ?
+La plupart des applications de Google ne peuvent pas être désinstallées mais désactivées, alors cliquez sur *Désactiver* au lieu de *Désinstaller*. L’application va se réactiver automatiquement lorsque vous allez l’ouvrir. Vous pouvez désactiver les applications suivantes : Google Duo, Google Cloud Print, Google Play Films et séries, Google Play Musique, Google Hangouts, Thèmes, Appli Google, Chrome, Drive, etc. Depuis que j’ai désactivé YouTube, j’ai régulièrement le message d’erreur YouTube a cessé de fonctionner lorsque je navigue sur n’importe quelle autre application, étrange n’est-ce pas ?
 
 ## Envoyer Google Cloud au ciel
 

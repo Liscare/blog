@@ -51,7 +51,7 @@ En plus de ça, j'ai opté pour une technique plutôt longue :
 - Recherche d'une adresse e-mail de cette entreprise, typiquement hr@company.com ou rrhh@company.com
 - Envoi d'une candidature spontanée à l'adresse e-mail
 
-Cette technique ne fonctionne pas, du moins, elle n'est pas rentable. Vous pouvez passer 40 minutes (comptant l'écriture d'un e-mail personnalisé) pour envoyer un e-mail dont personne ne va le recevoir ou même le lire. LinkedIn est peu efficace mais vous pouvez avoir des résultats.
+Cette technique ne fonctionne pas, du moins, elle n'est pas rentable. Vous pouvez passer 40 minutes (comptant l'écriture d'un e-mail personnalisé) pour envoyer un e-mail dont personne ne va le recevoir ou même le lire. LinkedIn est peu efficace, mais vous pouvez avoir des résultats.
 
 ## De la joie à la déception : Globant
 
@@ -61,13 +61,13 @@ J'ai contacté un employé de la technique de Globant (une ESN argentine) direct
 
 {{< image src="/posts/meme/meme_chat_triste.gif" height="350" width="350" caption="Moi après la réponse négative de Globant" alt="Chat décoiffé pas content">}}
 
-J'avais beaucoup d'espoir pour cette entreprise, l'opportunité était parfaite : développement C++ sur des projets internationaux pour [Electronics Arts](https://www.ea.com/fr-fr), par exemple. D'ailleurs, j'ai appris plus tard qu'il est très difficile d'entrer dans cette entreprise si vous n'avez pas de contact à l'intérieur (comme pour Accenture). **Ne vous faites jamais d'illusion lors de vos recherches** sinon vous allez être déçu ou vous allez ralentir vos recherches pour rien. Restez motivé lors de vos recherches d'emploi mais pensez que la réponse peut-être négative.
+J'avais beaucoup d'espoir pour cette entreprise, l'opportunité était parfaite : développement C++ sur des projets internationaux pour [Electronics Arts](https://www.ea.com/fr-fr), par exemple. D'ailleurs, j'ai appris plus tard qu'il est très difficile d'entrer dans cette entreprise si vous n'avez pas de contact à l'intérieur (comme pour Accenture). **Ne vous faites jamais d'illusion lors de vos recherches** sinon vous allez être déçu ou vous allez ralentir vos recherches pour rien. Restez motivé lors de vos recherches d'emploi, mais pensez que la réponse peut-être négative.
 
 ## Reprise des recherches
 
-Et c'est REPARTI ! Je me suis remis à rechercher activement un CDD à l'étranger. Après 850 postulations sur LinkedIn et 300 e-mails envoyés, j'ai reçu un message sur LinkedIn d'une recruteuse à Buenos Aires. J'ai d'abord cru à un fake, mais, au cas où, j'ai répondu aux messages. Après plusieurs entretiens et un développement Android (disponible [ici](https://github.com/LilianBr/PokedexLite)), j'ai pu intégrer une ESN à Buenos Aires pour 8 mois. Donc **répondez toujours aux messages des recruteurs**, même si leurs messages vous paraissent étranges. Cela ne vous coûte rien et il y a peut-être une belle opportunité par la suite. D'abord, commencez par miser sur la quantité avec 25 % de qualité, puis, arrivé au moment où vous connaissez mieux le marché, misez sur la qualité sur 75 % de vos e-mails ou des réponses aux offres.
+Et c'est REPARTI ! Je me suis remis à rechercher activement un CDD à l'étranger. Après 850 postulations sur LinkedIn et 300 e-mails envoyés, j'ai reçu un message sur LinkedIn d'une recruteuse à Buenos Aires. J'ai d'abord cru à un spam, mais, au cas où, j'ai répondu aux messages. Après plusieurs entretiens et un développement Android (disponible [ici](https://github.com/LilianBr/PokedexLite)), j'ai pu intégrer une ESN à Buenos Aires pour 8 mois. Donc **répondez toujours aux messages des recruteurs**, même si leurs messages vous paraissent étranges. Cela ne vous coûte rien et il y a peut-être une belle opportunité par la suite. D'abord, commencez par miser sur la quantité avec 25 % de qualité, puis, arrivé au moment où vous connaissez mieux le marché, misez sur la qualité sur 75 % de vos e-mails ou des réponses aux offres.
 
-Vous n'êtes pas toujours en position de force lors de vos recherches à l'étranger ou en France. Mais n'acceptez pas n'importe quelle proposition, vous finirez toujours par trouver. Si cela peut vous rassurer, vous pouvez avoir un plan B sur une opportunité moins bien mais qui vous permettra de travailler et/ou de partir à l'étranger.
+Vous n'êtes pas toujours en position de force lors de vos recherches à l'étranger ou en France. Mais n'acceptez pas n'importe quelle proposition, vous finirez toujours par trouver. Si cela peut vous rassurer, vous pouvez avoir un plan B sur une opportunité moins bien, mais qui vous permettra de travailler et/ou de partir à l'étranger.
 
 {{< image src="/posts/meme/meme_enfant_ok.gif" caption="Quand tu reçois une réponse positive" alt="Un enfant devant un ordinateur avec le pouce levé">}}
 
@@ -80,5 +80,5 @@ Lors de cette expérience, j'ai pu avoir une meilleure compréhension du marché
 Les différents conseils que je vous ai donnés sont valides pour vos recherches en France également. Et n'oubliez pas, **la recherche d'un travail est un vrai travail**. La chance est également de la partie, l'opportunisme dirais-je. De même, plus vous commencez tôt, plus vous allez connaître le marché et vous adaptez. Pour résumer :
 - Ne vous faites pas d'illusion sur les possibles propositions : la signature est le seul engagement valable
 - Commencez tôt votre recherche : plusieurs mois avant
-- Informez-vous sur le marché du travail : recherche internet, contact d'alumnis etc.
+- Informez-vous sur le marché du travail : recherche internet, contact d'alumnis, etc.
 - Ce qui est valable en France n'est pas forcément vrai en dehors des frontières : ouverture d'esprit

@@ -22,7 +22,7 @@ toc:
   auto: false
 ---
 
-Qui n’a jamais trouvé une librairie sur GitHub sans documentation ? C’est la librairie que vous cherchez, mais aucun renseignement sur son API. Combien de développeurs ont pleuré dans leur coin après ce genre de découverte ? L’auteur a passé des nuits à coder cette librairie, sauf que personne ne peut l’utiliser à son maximum. Elle aurait pu passer 4 heures (sur des dizaines d’heures de travail) à documenter son projet pour faire gagner plusieurs heures à ses collègues, aux contributeurs, aux clients… Dans cet article, je vous donne quelques repères pour écrire votre documentation technique (voire même fonctionnelle).
+Qui n’a jamais trouvé une librairie sur GitHub sans documentation ? C’est la librairie que vous cherchez, mais aucun renseignement sur son API. Combien de développeurs ont pleuré dans leur coin après ce genre de découverte ? L’auteur a passé des nuits à coder cette librairie, sauf que personne ne peut l’utiliser à son maximum. Elle aurait pu passer 4 heures (sur des dizaines d’heures de travail) à documenter son projet pour faire gagner plusieurs heures à ses collègues, aux contributeurs, aux clients… Dans cet article, je vous donne quelques repères pour écrire votre documentation technique (voire fonctionnelle).
 
 La documentation (technique) est parfois oubliée, malmenée ou encore bâclée. Elle a pourtant un intérêt fondamental dans la vie de votre produit (que ce soit un site, un logiciel, un produit physique, etc.). En effet, elle permet de :
 
@@ -38,11 +38,11 @@ La documentation (technique) est parfois oubliée, malmenée ou encore bâclée.
 
 ## Qui fait la doc ?
 
-Dans un premier temps, la documentation doit faire partie du projet sous forme d’une User Story, un ticket, une tâche etc. De cette manière, vous garantissez qu’elle sera affectée à une personne, et donc, faite (en toute logique). Ainsi, je suggère de réaliser la documentation de la même manière qu’un développement :
+Dans un premier temps, la documentation doit faire partie du projet sous forme d’une User Story, un ticket, une tâche, etc. De cette manière, vous garantissez qu’elle sera affectée à une personne, et donc, faite (en toute logique). Ainsi, je suggère de réaliser la documentation de la même manière qu’un développement :
 
 - Pour qui s’adresse cette documentation ? (= besoin client)
 - Définition de l’architecture
-- Rédaction de la documentation (peut inclure des schémas, des scripts batch etc.)
+- Rédaction de la documentation (peut inclure des schémas, des scripts batch, etc.)
 - Tests de la documentation par un pair
 
 En effet, il est conseillé d’intégrer la documentation technique avec votre code, par exemple, dans un dossier nommé « doc » et suivi par votre système de versionnage. Pour quelles raisons ? Une documentation doit être facile d’accès : passer 1 heure à chercher la documentation, on conclut qu’il n’y avait pas de documentation. De plus, elle se doit être différente en fonction des versions de votre projet. N’oubliez pas d’indiquer à quelle version de votre projet la documentation correspond. J’en viens à un deuxième point : l’actualisation de votre documentation.
@@ -51,7 +51,7 @@ Une doc vieille d’un an, ou même de 4 mois, peut induire en erreur l’utilis
 
 {{< image src="/posts/meme/meme_dicaprio_documents.gif" caption="« Regardez comment la doc est belle. »" alt="Leonardo Dicaprio montre deux documents.">}}
 
-## Quelle type de documentation ?
+## Quel type de documentation ?
 
 Je compte trois types de documentation (il y en a peut-être plus), elles répondent chacune à une question :
 
@@ -63,11 +63,11 @@ Les trois sont imbriqués, le guide de contribution est le plus complet : il inc
 
 ### Une étude de cas : Chart.js
 
-Nous allons rapidement étudier la documentation de Chart.js que j’ai pue utiliser au travail. C’est une librairie JavaScript (entre autre) pour faire afficher des graphes interactifs. Dans un premier temps, la librairie possède son propre site : [https://www.chartjs.org](https://www.chartjs.org/docs/latest/) et la documentation est [ici](https://www.chartjs.org/docs/latest/). Le projet compte plus de 350 contributeurs sur la partie JavaScript, il est d’autant plus facile d’avoir une documentation complète sur un grand projet comme celui-ci. Ou voyons cela de l’autre sens, il a plus de 350 contributeurs puisque la documentation est claire et complète. Parmi les 2 éléments précédents, qui la cause ? qui la conséquence ?
+Nous allons rapidement étudier la documentation de Chart.js que j’ai pue utiliser au travail. C’est une librairie JavaScript (entre autres) pour faire afficher des graphes interactifs. Dans un premier temps, la librairie possède son propre site : [https://www.chartjs.org](https://www.chartjs.org/docs/latest/) et la documentation est [ici](https://www.chartjs.org/docs/latest/). Le projet compte plus de 350 contributeurs sur la partie JavaScript, il est d’autant plus facile d’avoir une documentation complète sur un grand projet comme celui-ci. Ou voyons cela de l’autre sens, il a plus de 350 contributeurs puisque la documentation est claire et complète. Parmi les 2 éléments précédents, qui la cause ? qui la conséquence ?
 
 {{< image src="/posts/meme/meme_femme_jumelles.gif" caption="Recherchant la doc d’un projet..." width=300 height=300 alt="Une femme regarde avec des jumelles.">}}
 
-Comme je vous le disais plus haut, la documentation est riche : [guide de démarrage](https://www.chartjs.org/docs/latest/getting-started/), [exemples](https://www.chartjs.org/docs/latest/charts/bar.html) avec rendu visuel, [guide pour contribuer](https://www.chartjs.org/docs/latest/developers/contributing.html) etc. Quelles critiques pouvons-nous à cette documentation ? Bien entendu, son état actuel est déjà suffisant, mais nous pouvons l’améliorer encore un peu. Pour chaque graphe, des paramètres optionnels peuvent être rajoutés aux données ou au graphe lui-même (un exemple [ici](https://www.chartjs.org/docs/latest/charts/bar.html#dataset-configuration)). La documentation contient la liste des options, leurs types, leurs valeurs par défaut et une description. Malgré tout, il n’y a pas d’exemple. L’exemple disponible en haut de page ici pour les graphes de type « barre » est très basique, et c’est mieux ainsi, tout le monde n’a pas besoin des options. Que retenir de cet exemple ? Toujours mettre des exemples, en l’occurrence, un exemple de code dans ce cas. Vous pouvez faire encore mieux en ajoutant le rendu visuel de l’exemple.
+Comme je vous le disais plus haut, la documentation est riche : [guide de démarrage](https://www.chartjs.org/docs/latest/getting-started/), [exemples](https://www.chartjs.org/docs/latest/charts/bar.html) avec rendu visuel, [guide pour contribuer](https://www.chartjs.org/docs/latest/developers/contributing.html), etc. Quelles critiques pouvons-nous à cette documentation ? Bien entendu, son état actuel est déjà suffisant, mais nous pouvons l’améliorer encore un peu. Pour chaque graphe, des paramètres optionnels peuvent être rajoutés aux données ou au graphe lui-même (un exemple [ici](https://www.chartjs.org/docs/latest/charts/bar.html#dataset-configuration)). La documentation contient la liste des options, leurs types, leurs valeurs par défaut et une description. Malgré tout, il n’y a pas d’exemple. L’exemple disponible en haut de page ici pour les graphes de type « barre » est très basique, et c’est mieux ainsi, tout le monde n’a pas besoin des options. Que retenir de cet exemple ? Toujours mettre des exemples, en l’occurrence, un exemple de code dans ce cas. Vous pouvez faire encore mieux en ajoutant le rendu visuel de l’exemple.
 
 Une mauvaise documentation peut faire partie du plan d’affaires (business plan) comme avec le projet [Symfony](https://symfony.com/) de [SensioLabs](https://sensiolabs.com/). Leurs revenues viennent des formations, alors si nous pouvons nous former seuls avec leurs documentations, leurs formations n’auraient plus d’intérêt.
 
@@ -77,7 +77,7 @@ Une documentation répond à plusieurs questions :
 
 **Comment télécharger ou intégrer cette librairie à un projet ?**
 
-- Un bout de congifuration Maven à copier/coller dans le `pom.xml` pour intégrer la librairie
+- Un bout de configuration Maven à copier-coller dans le `pom.xml` pour intégrer la librairie
 - La ligne de commande pour ajouter la librairie avec Composer
 - La ligne de commande pour lancer le script bash d'installation (disponible pour chaque OS)
 
@@ -117,7 +117,7 @@ Exemple :
 
 **Comment modifier le code de cette librairie ?**
 
-- Guide pour contribuer (récupération des sources, compilation, commit etc.)
+- Guide pour contribuer (récupération des sources, compilation, commit, etc.)
 
 Exemple :
 - [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction)
@@ -131,7 +131,7 @@ Exemple :
 
 ## Comment organiser ma documentation ?
 
-Votre documentation doit être claire, les pages vont des éléments les plus basiques au plus complexes et, en même temps, des plus utilisés au moins utilisés. Par exemple, il n’est pas convenable de placer, dès le début, les paramètres optionnels de votre librairie. Pour autant, le guide de démarrage est le premier élément qui intéresse vos utilisateurs. N’oubliez pas, votre projet doit donner envie à ces futurs utilisateurs, un exemple qui impressionne est préférable pour votre page d’écran. Vous pouvez également vous aider d’outils pour créer votre documentation : [doxygen](github.com/doxygen/doxygen), [Swagger](https://swagger.io/), [Read the docs](https://readthedocs.org/)…
+Votre documentation doit être claire, les pages vont des éléments les plus basiques aux plus complexes et, en même temps, des plus utilisés au moins utilisés. Par exemple, il n’est pas convenable de placer, dès le début, les paramètres optionnels de votre librairie. Pour autant, le guide de démarrage est le premier élément qui intéresse vos utilisateurs. N’oubliez pas, votre projet doit donner envie à ces futurs utilisateurs, un exemple qui impressionne est préférable pour votre page d’écran. Vous pouvez également vous aider d’outils pour créer votre documentation : [doxygen](github.com/doxygen/doxygen), [Swagger](https://swagger.io/), [Read the docs](https://readthedocs.org/)…
 
 
 J’espère vous avoir guidé dans la construction d’une documentation solide. Elle servira aux utilisateurs et peut-être bien à vous-même dans quelques années.

@@ -21,11 +21,11 @@ lightgallery: true
 toc:
   auto: false
 ---
-Ici, je vous guide pour faire votre veille : quand la faire, comment la faire, quels sites regarder etc. Je vous parle principalement de veille technologique mais cela s’applique très bien aux actualités de manière générale.
+Ici, je vous guide pour faire votre veille : quand la faire, comment la faire, quels sites regarder, etc. Je vous parle principalement de veille technologique mais cela s’applique très bien aux actualités de manière générale.
 
 ## Quand ?
 
-Dans un premier temps, la majorité de **la veille doit se faire majoritairement sur votre temps de travail** sinon vous n’aurez ni le temps ni l’envie de le faire. L’idéal est de fixer un moment dans sa journée : le matin en arrivant au travail, avant de manger etc. Il est préférable d’effectuer sa veille en début de journée pour être sûr de la faire. Par exemple, si vous la faites en fin de journée, elle aura tendance à ne pas avoir lieu : « Pas le temps, j’ai trop de travail », « Je n’ai pas vu l’heure », « Je la ferai demain » etc. Les excuses sont légion en fin de journée, elles sont moindres au début de votre journée.
+Dans un premier temps, la majorité de **la veille doit se faire majoritairement sur votre temps de travail** sinon vous n’aurez ni le temps ni l’envie de le faire. L’idéal est de fixer un moment dans sa journée : le matin en arrivant au travail, avant de manger, etc. Il est préférable d’effectuer sa veille en début de journée pour être sûr de la faire. Par exemple, si vous la faites en fin de journée, elle aura tendance à ne pas avoir lieu : « Pas le temps, j’ai trop de travail », « Je n’ai pas vu l’heure », « Je la ferai demain », etc. Les excuses sont légion en fin de journée, elles sont moindres au début de votre journée.
 
 En supplément, vous pouvez aussi vous informer sur les dernières actualités sur votre temps personnel. Cependant, la fréquence peut être plus faible et s’orienter vers des thèmes plus personnels, disons plus optionnels.
 
@@ -47,7 +47,7 @@ Cette veille est très dépendante de vos projets professionnels et personnels, 
 
 #### Définition
 
-Vous consultez les derniers articles d’une liste de sites Web (ou autres supports) qui vous avez faite. Cette veille est provoquée, vous recherchez directement les informations.
+Vous consultez les derniers articles d’une liste de sites Web (ou autres supports) que vous avez fait. Cette veille est provoquée, vous recherchez directement les informations.
 
 #### La veille régulière et partagée
 
@@ -55,7 +55,7 @@ Au travail, vous avez peut-être la possibilité d’avoir **un flux d’article
 
 #### La veille régulière et individuelle
 
-La deuxième possibilité est de **créer votre propre flux**, elle peut s’ajouter au flux de votre entreprise. J’utilise un flux [RSS](https://fr.wikipedia.org/wiki/RSS) ou [Atom](https://fr.wikipedia.org/wiki/Atom_Syndication_Format), cela permet d’être notifié des nouveaux articles en s’abonnant à différents flux comme par exemple celui du [blog](https://www.bortzmeyer.org/) de [Stéphane Bortzmeyer](https://fr.wikipedia.org/wiki/St%C3%A9phane_Bortzmeyer). [RSS](https://fr.wikipedia.org/wiki/RSS) et [Atom](https://fr.wikipedia.org/wiki/Atom_Syndication_Format) sont des standards (non officiels), plus précisément, ce sont des formats de données fondés sur XML qui permettent de s’abonner à des flux.
+La deuxième possibilité est de **créer votre propre flux**, elle peut s’ajouter au flux de votre entreprise. J’utilise un flux [RSS](https://fr.wikipedia.org/wiki/RSS) ou [Atom](https://fr.wikipedia.org/wiki/Atom_Syndication_Format), cela permet d’être notifié des nouveaux articles en s’abonnant à différents flux comme celui du [blog](https://www.bortzmeyer.org/) de [Stéphane Bortzmeyer](https://fr.wikipedia.org/wiki/St%C3%A9phane_Bortzmeyer). [RSS](https://fr.wikipedia.org/wiki/RSS) et [Atom](https://fr.wikipedia.org/wiki/Atom_Syndication_Format) sont des standards (non officiels), plus précisément, ce sont des formats de données fondés sur XML qui permettent de s’abonner à des flux.
 
 > Un produit RSS est une [ressource du World Wide Web](https://fr.wikipedia.org/wiki/Ressource_du_World_Wide_Web) dont le contenu est produit automatiquement (sauf cas exceptionnels) en fonction des mises à jour d’un [site Web](https://fr.wikipedia.org/wiki/Site_Web). Les flux RSS sont des fichiers [XML](https://fr.wikipedia.org/wiki/Extensible_Markup_Language) qui sont souvent utilisés par les sites d’actualité et les [blogs](https://fr.wikipedia.org/wiki/Blog) pour présenter les titres des dernières informations consultables. (Source [Wikipédia](https://fr.wikipedia.org/wiki/RSS))
 
@@ -65,7 +65,7 @@ Il existe des **flux RSS publics** (et parfois communautaire) qui regroupe des a
 
 #### Comment visualiser les flux RSS\Atom ?
 
-Pour visualiser vos abonnements RSS\Atom, vous devez utiliser un agrégateur de flux sous la forme d’un logiciel (QuiteRSS, Feedly…), une extension de navigateur (Feedbro, Awesome RSS…), une application Android (RSS Reader, Feedly..) etc. Vous allez pouvoir faire des groupes de sources de flux, par exemple, regrouper tous les blogs Web et **consulter les derniers articles de vos blogs préférés**.
+Pour visualiser vos abonnements RSS\Atom, vous devez utiliser un agrégateur de flux sous la forme d’un logiciel (QuiteRSS, Feedly…), une extension de navigateur (Feedbro, Awesome RSS…), une application Android (RSS Reader, Feedly..), etc. Vous allez pouvoir faire des groupes de sources de flux, par exemple, regrouper tous les blogs Web et **consulter les derniers articles de vos blogs préférés**.
 
 Ainsi, vous allez régulièrement consulter vos flux via l’interface que vous avez choisie. L’avantage est le regroupement de toutes vos sources de données sur une même interface, vous n’avez pas besoin d’aller sur chaque site un par un. Personnellement, je lis les nouveaux titres, j’ouvre les articles qui m’intéressent dans mon navigateur puis je marque tous les articles comme lu. En l’espace de 10 minutes, je lis les titres d’article de plus de 30 sites, il me reste plus qu’à lire les articles que j’ai sélectionnés.
 
@@ -75,7 +75,7 @@ Ainsi, vous allez régulièrement consulter vos flux via l’interface que vous 
 
 #### Définition
 
-Vous recevez des informations par une info-lettre, par des collègues, par des amis etc. Cette veille a été démarrée par vous-même (inscription à la newsletter, participation à une discussion etc.) et, par la suite, elle est guidée par vous et d’autres acteurs.
+Vous recevez des informations par une info-lettre, par des collègues, par des amis, etc. Cette veille a été démarrée par vous-même (inscription à la newsletter, participation à une discussion, etc.) et, par la suite, elle est guidée par vous et d’autres acteurs.
 
 #### L'inscription
 
